@@ -1,6 +1,6 @@
 {
   "name": "antd-jalali-v5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -40,5 +40,22 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/setali/antd-jalali-v5.git"
-  }
+  },
+  "keywords": [
+    "ant-design",
+    "ant",
+    "ant5",
+    "antd",
+    "antd5",
+    "picker",
+    "datepicker",
+    "jalali",
+    "shamsi",
+    "khorshidi",
+    "dayjs",
+    "jalaliday"
+    "persian",
+    "farsi",
+    "calendar"
+  ]
 }
