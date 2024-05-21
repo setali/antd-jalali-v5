@@ -1,6 +1,6 @@
 {
   "name": "antd-jalali-v5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -24,14 +24,14 @@
     "access": "public"
   },
   "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.3.2",
+    "@vitejs/plugin-react": "^4.2.1",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",
     "vite-plugin-dts": "^3.9.1"
   },
   "dependencies": {
-    "@types/node": "^20.12.12",
-    "@types/react": "^18.3.2",
-    "@vitejs/plugin-react": "^4.2.1",
     "antd": "^5.17.3",
     "dayjs": "^1.11.11",
     "jalaliday": "^2.3.0",
